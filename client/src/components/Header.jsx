@@ -72,7 +72,7 @@ transition={{ delay :1,duration:1}}
          initial={{ opacity: 0}}
 animate={{ opacity: 1 }}
 transition={{ delay :1.2,duration:0.8}}
-      className='mt-2 text-neutral-600'>Generated images from imagify</motion.p>
+      className='mt-2 text-neutral-600'>Generated images from text2pix</motion.p>
     </motion.div>
   )
 }
